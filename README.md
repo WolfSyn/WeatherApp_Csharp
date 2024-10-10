@@ -5,7 +5,7 @@ this program will capture any parameters depending on what country or city you a
 
 
 # Note For Running Program 
-- After setting up the desing, press (F5) to run the program
+- After setting up the design, press (F5) to run the program
 - Enter a city name in the TextBox, click the button, and the weather information will displayin the GUI.
 
   This will provide a user-friendly interface for checking the weather.
