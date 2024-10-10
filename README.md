@@ -1,7 +1,7 @@
 # WeatherApp_Csharp
 This application is ment for capturing weather in a GUI integrated in Visual Studio ( also created in the application ) 
 
-all you have to do is run the code by pressing this key (F5) then it will run the Application through GUI
+this program will capture any parameters depending on what country or city you are looking to capture live through an API
 
 
 # Note For Running Program 
